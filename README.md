@@ -255,7 +255,7 @@ This happens when a controller is using a custom action which is not one of the 
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/strongbolt/fork )
+1. Fork it ( http://github.com/605data/strongbolt/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
